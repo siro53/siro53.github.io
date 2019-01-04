@@ -51,6 +51,10 @@ html, body{
     padding: 0 auto;
 }
 
+a:link{
+    color: white;
+}
+
 body header{
     position: fixed;
     width: 100vw;

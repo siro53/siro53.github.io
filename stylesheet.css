@@ -1,3 +1,8 @@
+html, body{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
 body header{
     width: 100vw;
     height: 15vh;
@@ -22,7 +27,7 @@ body header{
 body main{
     width: 100vw;
     height: 100vh;
-    background-color: aquamarine;
+    background-color: antiquewhite;
     font-family: monospace;
     z-index: 0;
 }
@@ -30,7 +35,6 @@ body main{
 .icon{
     width: 100vw;
     height: 30vh;
-    background-color: yellow;
     z-index: 1;
 }
 

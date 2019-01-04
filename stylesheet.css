@@ -54,6 +54,7 @@ html, body{
 body header{
     width: 100vw;
     height: 6vh;
+    margin: auto;
     background-color:rgba(0, 0, 0, 0.5);
     color: white;
     font-family: 'Lucida Console';

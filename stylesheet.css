@@ -55,12 +55,12 @@ a:link{
     color: #fff;
 }
 
-a:hover{
-    color: #ff7f50;
-}
-
 a:visited{
     color: #fff;
+}
+
+a:hover{
+    color: #ff7f50;
 }
 
 body header{

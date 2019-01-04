@@ -72,6 +72,11 @@ body header{
     padding: auto 5px;
 }
 
+.logo a img{
+    width: 100px;
+    height: 100px
+}
+
 .header-list{
     list-style: none;
     float: right;

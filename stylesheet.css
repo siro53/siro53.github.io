@@ -85,13 +85,13 @@ body main{
 
 .icon{
     width: 100vw;
-    height: 30vh;
+    height: 40vh;
     z-index: 1;
 }
 
 .contents{
     width: 100vw;
-    height: 55vh;
+    height: 54vh;
     margin: auto;
     text-align: center;
     z-index: 1;

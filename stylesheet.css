@@ -57,8 +57,8 @@ body header{
     height: 6vh;
     margin: auto;
     text-align: center;
-    background-color:rgba(0, 0, 0, 0.5);
-    color: white;
+    background-color:rgba(0, 0, 0, 0.6);
+    color: #ffffff;
     font-family: 'Lucida Console';
     z-index: 10;
 }
@@ -78,7 +78,7 @@ body header{
 body main{
     width: 100vw;
     height: 100vh;
-    background-color: antiquewhite;
+    background-color: #FAEBD7;
     font-family: monospace;
     z-index: 0;
 }
@@ -101,11 +101,14 @@ body main{
     font-weight: bold;
     padding-top: 5px;
     padding-bottom: 5px;
+    font-size: 2em;
 }
 
 .contents p{
     padding-top: 3px;
     padding-bottom: 3px;
+    font-size: 1.5em;
+    margin: 0.5em;
 }
 
 .contents img{
@@ -115,5 +118,6 @@ body main{
 }
 
 .main-h{
-    margin-top: 24px;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
 }
